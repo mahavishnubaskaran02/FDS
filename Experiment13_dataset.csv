@@ -1,0 +1,11 @@
+CustomerID,Age_Group,Rating(1-5),Restaurant,FoodPreference,Bill,NoOfPax,EstimatedSalary
+101,18-25,4.0,SpiceHub,Veg,850.0,2.0,35000.0
+102,26-35,6.0,Foodies,vegetarian,1200.0,4.0,52000.0
+103,36-45,3.0,UrbanBite,Non-Veg,-500.0,-1.0,-99999.0
+104,18-25,-1.0,SpiceHub,non-veg,650.0,3.0,48000.0
+105,46+,5.0,TastyCorner,Veg,2100.0,6.0,125000.0
+106,26-35,2.0,Foodies,Vegetarian,950.0,25.0,62000.0
+107,36-45,7.0,UrbanBite,Non-Veg,1450.0,2.0,71000.0
+108,18-25,,SpiceHub,veg,,3.0,45000.0
+108,18-25,4.0,SpiceHub,Veg,780.0,3.0,45000.0
+110,46+,3.0,TastyCorner,Non-Veg,1750.0,,
